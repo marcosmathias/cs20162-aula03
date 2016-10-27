@@ -14,15 +14,15 @@
          Executa o programa exemplo
     -->
 
-    <groupId>com.github.marcosmathias.cs20162-aula02</groupId>
-    <artifactId>cs20162-aula02</artifactId>
+    <groupId>com.github.marcosmathias.cs20162-aula03</groupId>
+    <artifactId>cs20162-aula03</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0</version>
 
-    <name>com.github.marcosmathias:cs20162-aula02</name>
+    <name>com.github.marcosmathias:cs20162-aula03</name>
 
 
-    <url>https://github.com/marcosmathias/cs20162-aula02</url>
+    <url>https://github.com/marcosmathias/cs20162-aula03</url>
 
     <organization>
         <name>Instituto de Informática (UFG) - Fábrica de Software</name>
@@ -52,9 +52,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/marcosmathias/cs20162-aula02.git</connection>
-        <developerConnection>scm:git:https://github.com/marcosmathias/cs20162-aula02.git</developerConnection>
-        <url>https://github.com/marcosmathias/cs20162-aula02</url>
+        <connection>scm:git:https://github.com/marcosmathias/cs20162-aula03.git</connection>
+        <developerConnection>scm:git:https://github.com/marcosmathias/cs20162-aula03.git</developerConnection>
+        <url>https://github.com/marcosmathias/cs20162-aula03</url>
     </scm>
 
     <properties>
@@ -176,9 +176,9 @@
         </profile>
     </profiles>
 
-    <description>Exercícios da segunda aula de construção de software.
+    <description>Exercícios da terceira aula de construção de software.
 
-Universidade Federal de Goiás
-Instituto de Informática
-Semestre 2016-2</description>
+Universidade Federal de Goiás; 
+Instituto de Informática; 
+Semestre 2016-2.</description>
 </project>
